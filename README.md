@@ -28,7 +28,7 @@ Active View - ![active](active.png)
 
 ## 🌐 Live Demo
 
-👉 [View live on Vercel]()  
+👉 [View live on Vercel](https://blog-preview-card-kwyf.vercel.app/)  
 
 ---
 
